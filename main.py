@@ -1,6 +1,3 @@
-#WORKING VERSION IS ON REPL.IT
-#https://replit.com/@RameenPopal/MinecraftDiscordBot#keep_alive.py
-
 import os
 import discord
 from discord.ext import commands
@@ -9,7 +6,7 @@ import base64
 import time
 import keep_alive
 
-my_secret = "NzUyOTY4NDkxODcwNzE1OTU0.GCO_1a.4aZWqbBvl5Q5UAWPSTF_B60kwimqWiNH1KzdSY"
+my_secret = "YOUR_KEY_GOES_HERE"
 
 client = commands.Bot(command_prefix = ',')
 client.remove_command('help')

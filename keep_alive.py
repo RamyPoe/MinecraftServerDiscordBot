@@ -1,9 +1,6 @@
 from flask import Flask
 from threading import Thread
 
-#WORKING VERSION IS ON REPL.IT
-#https://replit.com/@RameenPopal/MinecraftDiscordBot#keep_alive.py
-
 app = Flask('')
 
 

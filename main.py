@@ -43,7 +43,6 @@ def download(ip):
         imgstring = status.favicon
         
         imgstring = imgstring[22:]
-        # print(imgstring)
         imgdata = base64.b64decode(imgstring)
         filename = 'a.jpg'
         try:
@@ -67,8 +66,6 @@ async def help(ctx):
     embed=discord.Embed(title=",help", description="Shows this menu", color=0xcc3342)
     embed.set_author(name="BOT COMMANDS")
     embed.add_field(name=',server_status', value='Usage: ,server_status [minecraft ip]', inline=False)
-    # embed.add_field(name=',pixelmon_server', value='Takes no arguments, checks if hooman has his server up', inline=False)
-    # embed.add_field(name=',ramypoe_server', value='Checks if ramypoe has any kind of miencraft server running at the moment', inline=True)
     await ctx.send(embed=embed)
 
 @client.command()

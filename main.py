@@ -22,7 +22,6 @@ def mods(ip):
     
     if 'modinfo' in status.raw:
         for i in status.raw['modinfo']['modList']:
-            v = i.items()
             mods.append(i['modid'])
         final = ''
         for i in mods:

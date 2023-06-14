@@ -18,7 +18,7 @@ Paste your bot token appropriately into `main.py`.
 
 #### Bot
 
-Has two commands: `,help` and `,server_status`. The command is used as `,server_status [ip]` and will return a table as soon in the images above.
+Has two commands: `,help` and `,server_status`. The command is used as `,server_status [ip]` and will return a table as seen in the images above.
 
 
 

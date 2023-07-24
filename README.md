@@ -4,9 +4,9 @@ ___
 
 ## Project Screen Shots
 
-![ALT](https://i.ibb.co/hW1TCx8/2.png)
-![ALT](https://i.ibb.co/WKRrcj8/1.png)
-![ALT](https://i.ibb.co/GdHhZZr/3.png)
+![ALT](https://github.com/RamyPoe/MinecraftServerDiscordBot/blob/main/images/1.png?raw=true)
+![ALT](https://github.com/RamyPoe/MinecraftServerDiscordBot/blob/main/images/2.png?raw=true)
+![ALT](https://github.com/RamyPoe/MinecraftServerDiscordBot/blob/main/images/3.png?raw=true)
 
 
 ## Installation and Setup Instructions
